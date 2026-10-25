@@ -31,6 +31,9 @@ out/
 # VS Code
 .vscode/
 
+# AI assistant skills
+.claude/
+
 # OS generated files
 .DS_Store
 Thumbs.db
